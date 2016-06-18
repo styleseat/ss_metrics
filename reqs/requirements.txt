@@ -1,0 +1,7 @@
+isort
+flake8
+mock
+pip-tools
+pytest
+-e git+git://github.com/pytest-dev/pytest-cov@ec857bc6e809e82ea6e610747753fb7f4512e804#egg=pytest-cov
+tox
